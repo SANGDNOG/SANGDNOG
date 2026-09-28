@@ -4,7 +4,7 @@
 
 **CS Undergraduate @ Kwangwoon University**
 
-Interested in Neuromorphic AI, Embodied Intelligence, and Language Models.
+Interested in Vision-Language-Action Models, Robot Learning, World Models, and Test-Time Verification.
 
 <br/>
 
@@ -19,10 +19,10 @@ Interested in Neuromorphic AI, Embodied Intelligence, and Language Models.
 
 ### Research Interests
 
-- **Spiking Neural Networks** — Neuromorphic computing, bio-plausible learning rules
-- **Embodied AI** — Vision-Language-Action models, robot manipulation
-- **Reinforcement Learning** — Policy optimization, model-based RL
-- **Large Language Models** — Alignment, efficient inference, RAG systems
+- **Vision-Language-Action Models** — Robot manipulation and embodied reasoning
+- **Robot Learning** — Policy learning, planning, and manipulation
+- **World Models for Action and Planning** — Action-conditioned prediction and planning
+- **Verification & Failure Detection** — Candidate evaluation, failure detection, and recovery
 
 ---
 
