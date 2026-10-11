@@ -47,7 +47,7 @@ A self-hosted, privacy-preserving usage monitoring system for Codex across multi
 
 ## Activities
 
-- **Gwangmastery Algorithm Study** — Organizer & Instructor, 8-week program
+- **Kwangmastery Algorithm Study** — Organizer & Instructor, 8-week program
 - **AI Mosaic** — Organizer & Participant; paper/news presentations and technical blogging
 
 ---
